@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joshua and I'm a CSE student, from Baselios Mathews II College Of Engineering</h2>
+<h2 align="left">Hi 👋! My name is Joshua, Full-Stack Web Developer</h2>
 
 ###
 
