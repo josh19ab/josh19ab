@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Joshua Abraham!<br>A passionate Full-Stack Developer and Computer Science undergraduate with a knack for building scalable and user-friendly web applications. My expertise lies in technologies like React, Next.js, Express.js, and MongoDB.<br><br>🔧 I enjoy crafting innovative projects, from real-time chat apps to e-commerce platforms, while exploring cutting-edge tools like Framer Motion and Spline.<br><br>🌟 Currently, I'm focused on enhancing my skills in web development and contributing to impactful open-source projects.<br><br>📫 Let's connect: LinkedIn | Portfolio
+👋 Hi, I'm Joshua Abraham!<br>A passionate Full-Stack Developer and Computer Science undergraduate with a knack for building scalable and user-friendly web applications. My expertise lies in technologies like React, Next.js, Express.js, and MongoDB.<br><br>🔧 I enjoy crafting innovative projects, from real-time chat apps to e-commerce platforms, while exploring cutting-edge tools like Framer Motion and Spline.<br><br>🌟 Currently, I'm focused on enhancing my skills in web development and contributing to impactful open-source projects.<br><br>
 
 
 ## 🌐 Socials:
