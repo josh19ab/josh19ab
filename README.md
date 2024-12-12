@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Joshua Abraham!<br>A passionate Full-Stack Developer and Computer Science undergraduate with a knack for building scalable and user-friendly web applications. My expertise lies in technologies like React, Next.js, Express.js, and MongoDB.<br><br>🔧 I enjoy crafting innovative projects, from real-time chat apps to e-commerce platforms, while exploring cutting-edge tools like Framer Motion and Spline.<br><br>🌟 Currently, I'm focused on enhancing my skills in web development and contributing to impactful open-source projects.<br><br>
-🖥️ Check out my portfolio: [joshua-abraham.dev](https://your-portfolio-link.com) 
+🖥️ Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?logo=vercel&logoColor=white)](https://joshua-ab.vercel.app) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joshua_abraham_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-joshua-abraham) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23472656) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JOSHUAABRA75773) 
